@@ -2,8 +2,11 @@
 
 A responsive product listing interface that mimics a basic e-commerce layout. This project demonstrates how to implement dynamic product filtering, sorting, and searching using core web technologies — all in the browser without any page reloads.
 
-## 🔍 Features
+# 🌐 Live Demo
+https://himanshu4812.github.io/FashionHub/
 
+
+## 🔍 Features
 - 🔎 Search products by name
 - 🧩 Filter by category (`Men`, `Women`, `Accessories`)
 - 💲 Sort by price (`Low to High`, `High to Low`)
