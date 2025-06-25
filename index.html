@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fashion Hub - Shop All Products</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+    <div class="left">
+      <strong><h2 style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;" >Fashion Hub</h2></strong>
+      <a href="#">New Arrivals</a>
+      <a href="#">Men</a>
+      <a href="#">Women</a>
+      <a href="#">Accessories</a>
+      <a href="#">Sale</a>
+    </div>
+    <div class="right">
+      <input type="text" id="search" placeholder="Search" />
+      <span>♥</span>
+      <span><a href="https://www.linkedin.com/in/himanshu-kumar-389a85273/"><img src="img/linkedin.svg" alt="linkedin"></a></span>
+    </div>
+  </nav>
+
+  <h1>Shop All Products</h1>
+
+  <div class="filters">
+    <select id="filter-category">
+      <option value="all">Category</option>
+      <option value="Men">Men</option>
+      <option value="Women">Women</option>
+      <option value="Accessories">Accessories</option>
+    </select>
+    <select id="sort-price">
+      <option value="none">Price</option>
+      <option value="asc">Low to High</option>
+      <option value="desc">High to Low</option>
+    </select>
+    <select id="sort-rating">
+      <option value="none">Rating</option>
+      <option value="high">Highest</option>
+      <option value="low">Lowest</option>
+    </select>
+  </div>
+
+  <div class="product-grid" id="product-grid"></div>
+
+  <div class="pagination">
+    <button>&lt;</button>
+    <button class="active">1</button>
+    <button>2</button>
+    <button>3</button>
+    <button>4</button>
+    <button>5</button>
+    <button>&gt;</button>
+  </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
