@@ -55,3 +55,10 @@ This project is perfect for beginners learning:
 - DOM Manipulation
 - Responsive Web Design
 - Practical JavaScript with UI logic
+
+# 📬 Contact
+Feel free to reach out for collaboration or suggestions:
+
+- [GitHub](https://github.com/Himanshu4812)
+- [LinkedIn](https://www.linkedin.com/in/himanshu-kumar-389a85273/)
+
