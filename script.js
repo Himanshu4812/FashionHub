@@ -1,5 +1,5 @@
 const products = [
-      { name: "Classic Leather Jacket", price: 199.99, category: "Men", rating: 4.5, image: "img/jacket.webp" },
+      { name: "Classic Leather Jacket", price: 199.99, category: "Men", rating: 4.5, image: "img/Jacket.webp" },
       { name: "Summer Dress", price: 79.99, category: "Women", rating: 4.2, image: "img/Summer.jpg" },
       { name: "Urban Explorer Backpack", price: 129.99, category: "Accessories", rating: 4.6, image: "img/bag.jpg" },
       { name: "Trailblazer Hiking Boots", price: 149.99, category: "Men", rating: 4.7, image: "img/boots.jpg" },
